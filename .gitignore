@@ -1,0 +1,20 @@
+# Données
+data/
+models/
+mlruns/
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+
+# Environnements
+.env
+*.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
